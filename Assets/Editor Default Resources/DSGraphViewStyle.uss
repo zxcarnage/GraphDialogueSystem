@@ -1,0 +1,8 @@
+/*noinspection CssUnresolvedCustomProperty,CssInvalidFunction*/
+GridBackground
+{
+    --grid-background-color : var(--ds-colors-grid-dark-light-1);
+    --line-color : var(--ds-colors-grid-dark-light-2);
+    --thick-line-color : var(--ds-colors-grid-dark-light-3);
+    --spacing: var(--ds-metrics-25);
+}
